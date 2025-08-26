@@ -1,8 +1,8 @@
-package controller;
+package org.example.controller;
 
-import model.Vehiculo;
-import model.CalculadoraImpuestos;
-import view.VistaImpuestoCarro;
+import org.example.model.Vehiculo;
+import org.example.model.CalculadoraImpuestos;
+import org.example.view.VistaImpuestoCarro;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
